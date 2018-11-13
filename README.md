@@ -1,5 +1,4 @@
 ## ROS Best Practices, Conventions, and Tricks
-==================================
 
 ### C++ and ROS Style
 We should those practices and keep our standard as high:
