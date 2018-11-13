@@ -1,5 +1,10 @@
 ## ROS Best Practices, Conventions, and Tricks
+==================================
 
-See the [Wiki](https://github.com/ethz-asl/ros_best_practices/wiki) for more information.
+### C++ and ROS Style
+We should those practices and keep our standard as high:
 
-[![Build Status](http://rsl-ci.ethz.ch/buildStatus/icon?job=ros_best_practices)](http://rsl-ci.ethz.ch/job/ros_best_practices/)
+* [ETHZ ROS best practices](https://github.com/ethz-asl/ros_best_practices)
+* [ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [Good practices](https://x-team.com/blog/good-programming-practices-blog-post-wip/)
